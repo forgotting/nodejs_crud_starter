@@ -1,0 +1,9 @@
+{
+    "database":{
+        "url":"mongodb://admin:abc123@172.19.2.199:27017/commonplatform?authSource=admin"
+    },
+    "jwt":
+    {
+        "secret":"jwtDemo"
+    }
+}
